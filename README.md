@@ -1,4 +1,4 @@
-# Magnitude-6-Earthquakes
+# Magnitude 6+ Earthquakes
 
 This project contains the visualization done on the past Earthquakes records through Power BI.
 
